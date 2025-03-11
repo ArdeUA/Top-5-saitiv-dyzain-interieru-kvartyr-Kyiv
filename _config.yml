@@ -1,6 +1,10 @@
 title: Топ-5 студій дизайну інтерєрів квартир у Києві
 email: gasound@gmail.com
-description: > Огляд топ-5 київських студій дизайну інтерєрів, які пропонують сучасні рішення для квартир.
-  Це мій перший блог на Jekyll.
+description:  "Огляд топ-5 київських студій дизайну інтерєрів, які пропонують сучасні рішення для квартир."
 github_username:  ArdeUA
 theme: minima
+url: "https://ardeua.github.io/"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+permalink: /blog/:year/:month/:day/:title/
