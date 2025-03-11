@@ -3,3 +3,4 @@ email: gasound@gmail.com
 description: > Огляд топ-5 київських студій дизайну інтерєрів, які пропонують сучасні рішення для квартир.
   Це мій перший блог на Jekyll.
 github_username:  ArdeUA
+theme: minima
